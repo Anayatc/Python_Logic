@@ -15,7 +15,7 @@ if door == "1":
 
 elif door == "2":
     print("You stare into the endless abyss at Cthulhu's retina. \n"
-          "1. Blueberries. \n 2. Yellow jacket clothespins \n 3. Understanding revolvers yelling melodies.")
+          " 1. Blueberries. \n 2. Yellow jacket clothespins \n 3. Understanding revolvers yelling melodies.")
     insanity = input(">")
     if insanity == "1" or insanity == "2":
         print("Your body survives powered by a mind of jello. Good job!")
