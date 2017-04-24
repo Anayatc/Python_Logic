@@ -20,3 +20,4 @@ if people > buses:
     print("Alright, let's just take the buses.")
 else:
     print("Fine, let's stay home then.")
+
