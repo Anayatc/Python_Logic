@@ -1,7 +1,7 @@
 states = {
     'Oregon': 'OR',
     'Florida': 'FL',
-    'California':'CA',
+    'California': 'CA',
     'New York': 'NY',
     'Michigan': 'MI'
 }
